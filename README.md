@@ -32,7 +32,8 @@ class Program
             Console.WriteLine("The number of elements does not match the specified array size.");
             return;
         }
-
+Question 2.
+## Problem: Array Sum
         int sum = elements.Sum(int.Parse);
         Console.WriteLine($"The sum of the array elements is: {sum}");
     }
