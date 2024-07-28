@@ -38,5 +38,3 @@ class Program
     }
 }
 
-Question 2.
-## Problem: Array Sum
