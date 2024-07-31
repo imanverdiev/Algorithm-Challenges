@@ -8,11 +8,8 @@ Question 1.
 - The second line contains `n` space-separated integers representing the array's elements.
 
 ### Output Format
-
 - Print the sum of the array's elements as a single integer.
-
 ### Solution
-
 ```csharp
 using System;
 using System.Linq;
