@@ -12,6 +12,7 @@ Question 1.
 - Print the sum of the array's elements as a single integer.
 
 ### Solution
+
 ```csharp
 using System;
 using System.Linq;
